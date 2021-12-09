@@ -1,5 +1,7 @@
 Nama Lengkap	: Raihan Amal Ramadhan
+
 Nama Panggilan	: Raihan 
+
 Npm		: 1908107010014
 
             Reception (resepsi)
@@ -12,8 +14,11 @@ Dan apabila telah setuju nanti mereka akan meberikan jenis tema untuk acara pern
 Untuk tema ada tema adat, pantai dan rustic. Yang mana dimasing-masing tema ada menampilkan prilaku/ciri khas dari masing-masing tema.
 
 1. Observer Pattern 
+
 Subjeknya adalah panitia/perancang resepsi sembako Observernya adalah orang yang mengadakan pesta.
+
 2. Decorator Pattern 
+
 Objek Decoratornya adalah tema pernikahan yang memiliki prilaku/ciri khas masing-masing
 
 Run:

@@ -1,6 +1,6 @@
 Nama Lengkap	: Raihan Amal Ramadhan
 Nama Panggilan	: Raihan 
-Npm			: 1908107010014
+Npm		: 1908107010014
 
             Reception (resepsi)
 Reception(resepsi) merupakan kegiatan suatu pesta yang dihadiri oleh para undangan atau tamu undangan. 
